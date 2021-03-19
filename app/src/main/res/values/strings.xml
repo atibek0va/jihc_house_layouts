@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JIHC girls House</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="groups">
+        <item>Qaƞtar</item>
+        <item>Aqpan</item>
+        <item>Nauryz</item>
+        <item>Säuır</item>
+        <item>Mamyr</item>
+        <item>Mausym</item>
+        <item>Şılde</item>
+        <item>Tamyz</item>
+        <item>Qyrküiek</item>
+        <item>Qazan</item>
+        <item>Qaraşa</item>
+        <item>Jeltoqsan</item>
+    </string-array>
+</resources>
